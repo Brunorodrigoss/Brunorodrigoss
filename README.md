@@ -2,7 +2,7 @@
 
 ### I am a Software Developer Engineer in Test (SDET) with a wealth of experience and expertise in the field. With a strong background in software testing, I have honed my skills in delivering high-quality results and ensuring exceptional user experiences.
 
-### Email me here: [bnorodrigo@gmail.com](mailto:bnorodrigo@gmail.com).
+### Email me here: [github.com.expert515@passmail.com](mailto:github.com.expert515@passmail.com).
 ---
 ![Bruno Rodrigo's Github status](https://github-readme-stats.vercel.app/api?username=Brunorodrigoss&show_icons=true&count_private=true)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunorodrigoss&layout=compact&hide=jupyter%20notebook,vba,scss,html,css,assembly,c%2B%2B&count_private=true&langs_count=8)
